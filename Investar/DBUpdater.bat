@@ -1,0 +1,1 @@
+python C:\Users\PPP\PycharmProjects\05_StockPriceAPI\Investar\DBUpdater.py
